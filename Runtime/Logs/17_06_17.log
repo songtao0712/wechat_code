@@ -1,0 +1,12 @@
+[ 2017-06-17T22:29:19+08:00 ] ::1 /onethink/index.php?s=/Admin/Article/checkDynamic
+ERR: 非法操作:checkdynamic
+
+[ 2017-06-17T22:29:58+08:00 ] ::1 /onethink/index.php?s=/admin/article/getMenu
+ERR: 非法操作:getmenu
+
+[ 2017-06-17T22:30:07+08:00 ] ::1 /onethink/index.php?s=/admin/article/getmenu
+ERR: 非法操作:getmenu
+
+[ 2017-06-17T22:30:58+08:00 ] ::1 /onethink/index.php?s=/admin/article/getMenu
+ERR: 非法操作:getmenu
+
